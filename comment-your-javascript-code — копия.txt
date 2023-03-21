@@ -1,3 +1,0 @@
-// This is a phone number.
-/* This is a
-phone number */
